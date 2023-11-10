@@ -5,3 +5,4 @@ module.exports = {
   customerUpdate: `update customers set ? where id=?`,
   customerDelete: `delete from customers where id=?`,
 };
+//asd
